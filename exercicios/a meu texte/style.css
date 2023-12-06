@@ -1,0 +1,13 @@
+@charset "UTD-8";
+
+body {
+    background-color: bisque;
+}
+
+h1{
+    background-color: rgba(222, 184, 135, 0.701);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 3em;
+}
+

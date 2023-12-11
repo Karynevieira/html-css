@@ -140,6 +140,10 @@ main > picture{
 
 }
 
+picture > source {
+
+}
+
 main img.pequeno{
     max-width: 300px;
     display: block;
